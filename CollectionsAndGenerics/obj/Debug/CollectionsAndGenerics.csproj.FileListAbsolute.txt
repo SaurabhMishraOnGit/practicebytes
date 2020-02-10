@@ -1,0 +1,6 @@
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.exe.config
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\CollectionsAndGenerics\bin\Debug\CollectionsAndGenerics.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\CollectionsAndGenerics\obj\Debug\CollectionsAndGenerics.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ValueTuples\bin\Debug\ValueTuples.exe.config
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ValueTuples\bin\Debug\ValueTuples.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ValueTuples\bin\Debug\ValueTuples.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ValueTuples\obj\Debug\ValueTuples.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ValueTuples\obj\Debug\ValueTuples.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ValueTuples\obj\Debug\ValueTuples.csprojAssemblyReference.cache

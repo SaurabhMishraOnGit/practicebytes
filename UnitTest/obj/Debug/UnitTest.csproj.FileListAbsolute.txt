@@ -1,0 +1,16 @@
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\UnitTestReferenceLibrary.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\UnitTestReferenceLibrary.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\bin\Debug\UnitTestReferenceLibrary.exe.config
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache

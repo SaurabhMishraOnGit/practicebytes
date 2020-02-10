@@ -1,0 +1,6 @@
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ExpandoObjectExample\bin\Debug\ExpandoObjectExample.exe.config
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ExpandoObjectExample\bin\Debug\ExpandoObjectExample.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ExpandoObjectExample\bin\Debug\ExpandoObjectExample.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ExpandoObjectExample\obj\Debug\ExpandoObjectExample.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ExpandoObjectExample\obj\Debug\ExpandoObjectExample.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\ExpandoObjectExample\obj\Debug\ExpandoObjectExample.csprojAssemblyReference.cache

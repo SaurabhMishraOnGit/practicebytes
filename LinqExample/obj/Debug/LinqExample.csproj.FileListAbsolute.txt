@@ -1,0 +1,6 @@
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\LinqExample\obj\Debug\LinqExample.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\LinqExample\obj\Debug\LinqExample.csprojAssemblyReference.cache

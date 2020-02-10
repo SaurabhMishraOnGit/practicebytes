@@ -1,0 +1,6 @@
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTestReferenceLibrary\bin\Debug\UnitTestReferenceLibrary.exe.config
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTestReferenceLibrary\bin\Debug\UnitTestReferenceLibrary.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTestReferenceLibrary\bin\Debug\UnitTestReferenceLibrary.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTestReferenceLibrary\obj\Debug\UnitTestReferenceLibrary.exe
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTestReferenceLibrary\obj\Debug\UnitTestReferenceLibrary.pdb
+C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\UnitTestReferenceLibrary\obj\Debug\UnitTestReferenceLibrary.csprojAssemblyReference.cache
