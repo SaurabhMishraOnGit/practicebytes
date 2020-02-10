@@ -1,5 +1,5 @@
 # practicebyte
-This repository consist of sample projects on varied .NET topics and technologies.
+This repository consist of the .NET Practice tasks.
 
 # Licence
 MIT License
