@@ -1,4 +1,4 @@
-# practicebyte
+# practicebytes
 This repository consist of the .NET Practice tasks.
 
 # Licence
