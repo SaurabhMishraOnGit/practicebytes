@@ -3,3 +3,8 @@ C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTa
 C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
 C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
 C:\Users\Saurabh_Mishra2\Documents\Learning\C#\Tasks\EmpID559210DotNetPracticeTasks\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Users\Saurabh_Mishra2\source\repos\practicebytes\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\Saurabh_Mishra2\source\repos\practicebytes\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Users\Saurabh_Mishra2\source\repos\practicebytes\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\Saurabh_Mishra2\source\repos\practicebytes\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\Saurabh_Mishra2\source\repos\practicebytes\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb

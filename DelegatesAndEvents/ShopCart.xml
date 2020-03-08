@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shop>
+<Products>
+  <Product>
+    <ProductID>0</ProductID>
+    <ProductName>Cadbury DairyMilk</ProductName>
+    <Price>20</Price>
+  </Product>
+  <Product>
+    <ProductID>1</ProductID>
+    <ProductName>WoodLand Shoes</ProductName>
+    <Price>2500</Price>
+  </Product>
+  <Product>
+    <ProductID>2</ProductID>
+    <ProductName>Cinthol Soap</ProductName>
+    <Price>25</Price>
+  </Product>
+  <Product>
+    <ProductID>3</ProductID>
+    <ProductName>Levis Jeans</ProductName>
+    <Price>2200</Price>
+  </Product>
+  <Product>
+    <ProductID>4</ProductID>
+    <ProductName>Good Day Biscuits</ProductName>
+    <Price>20</Price>
+  </Product>
+  <Product>
+    <ProductID>5</ProductID>
+    <ProductName>HaldiRam Namkeen</ProductName>
+    <Price>65</Price>
+  </Product>
+  <Product>
+    <ProductID>6</ProductID>
+    <ProductName>Tata Salt</ProductName>
+    <Price>20</Price>
+  </Product>
+  <Product>
+    <ProductID>7</ProductID>
+    <ProductName>Aashirwad Aata</ProductName>
+    <Price>380</Price>
+  </Product>
+  <Product>
+    <ProductID>8</ProductID>
+    <ProductName>Fortune Rice</ProductName>
+    <Price>320</Price>
+  </Product>
+  <Product>
+    <ProductID>9</ProductID>
+    <ProductName>Saffola Oil</ProductName>
+    <Price>520</Price>
+  </Product>
+</Products>
+</Shop>
